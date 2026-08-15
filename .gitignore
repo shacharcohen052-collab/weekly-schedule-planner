@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit local configuration and secrets
+.streamlit/secrets.toml
+
+# Local files and editor settings
+.DS_Store
+.vscode/
+*.log
+
+# Never commit real personal or military schedules
+private_schedules/
